@@ -1,0 +1,37 @@
+#profile {
+  border-radius: 50%;
+  width: 100px;
+  margin-left:300px;
+}
+#line {
+  background-color: black;
+  height: 10px;
+  width: 100px;
+  margin-left:600 ;
+  
+}
+body {
+  text-align: center;
+  background: linear-gradient(green 0%, blue 100%);
+  background-repeat: no-repeat;
+  height: 100px;
+}
+
+.menu
+{
+ list-style: none;
+ font-family: cursive;
+ top:10px;
+ right: 30px;
+ cursor: pointer;
+ color: black;
+}
+
+.link
+{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+    float: right;
+}
